@@ -7,9 +7,9 @@
     </parent>
     <groupId>com.airhacks</groupId>
     <artifactId>javaee8-essentials-archetype</artifactId>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>javaee8-essentials-archetype</name>
-    <description>Java EE 8 project template. Clean, lean and minimalistic.</description>
+    <description>Java EE 8 project quickstart template. Clean, lean and minimalistic.</description>
     <url>http://airhacks.com</url>
     <organization>
         <name>Adam Bien</name>
