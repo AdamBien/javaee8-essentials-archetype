@@ -48,14 +48,16 @@ limitations under the License.
             <directory></directory>
             <includes>
                 <include>.gitignore</include>
-                <include>README.md</include>
+
             </includes>
         </fileSet>
 
         <fileSet filtered="true" packaged="false" encoding="UTF-8">
             <directory></directory>
             <includes>
-                <include>**/Dockerfile</include>
+                <include>README.md</include>                
+                <include>Dockerfile</include>
+                <include>buildAndRun.sh</include>                
             </includes>
         </fileSet>
         
