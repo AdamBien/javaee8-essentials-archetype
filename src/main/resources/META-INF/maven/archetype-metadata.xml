@@ -58,6 +58,7 @@ limitations under the License.
                 <include>README.md</include>                
                 <include>Dockerfile</include>
                 <include>buildAndRun.sh</include>                
+                <include>buildAndRun.js</include>                
             </includes>
         </fileSet>
         
