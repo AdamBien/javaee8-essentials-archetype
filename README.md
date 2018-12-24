@@ -10,3 +10,5 @@ to create a fully fledged Java EE 8 "kB" project. Use the most recent version.
 
 In the IDE of your choice use the group ```com.airhacks```, then the artifact id ```javaee8-essentials-archetype``` and also select the most recent version.
 
+The "Watch and Deploy" [WAD](https://github.com/AdamBien/wad) tool works best with this archetype. It continuously watches and deploys your ThinWAR without any additional configuration.
+
