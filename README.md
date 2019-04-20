@@ -15,3 +15,7 @@ Shortcut (copy and paste, replace ```PROJECT_NAME``` and ```GROUP_ID```):
 
 The "Watch and Deploy" [WAD](https://github.com/AdamBien/wad) tool works best with this archetype. It continuously watches and deploys your ThinWAR without any additional configuration.
 
+## Maven Archetype and wad.sh in Action
+
+[![Jakarta EE / MicroProfile QuickStarter](https://i.ytimg.com/vi/8w_a-yEl2Wg/mqdefault.jpg)](https://www.youtube.com/embed/8w_a-yEl2Wg?rel=0)
+
