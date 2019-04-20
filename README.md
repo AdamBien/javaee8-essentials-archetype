@@ -1,7 +1,6 @@
 # Minimalistic Java EE 8 Quickstarter
 
-A quickstart maven archetype for creating greenfield Java EE 8 projects
-
+A quickstart maven archetype for creating greenfield Java EE 8 / Jakarta EE project with MicroProfile 2+ APIs.
 
 
 Fire up your CLI and type:
