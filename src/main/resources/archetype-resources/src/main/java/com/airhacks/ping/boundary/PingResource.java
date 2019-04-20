@@ -12,7 +12,7 @@ public class PingResource {
 
     @GET
     public String ping() {
-        return "Enjoy Java EE 8!";
+        return "Enjoy Java EE 8 with MicroProfile 2+!";
     }
 
 }
