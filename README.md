@@ -1,4 +1,4 @@
-# Minimalistic Java EE 8 Quickstarter
+# Minimalistic Java EE 8 / Jakarta EE + MicroProfile Quickstarter
 
 A quickstart maven archetype for creating greenfield Java EE 8 / Jakarta EE project with MicroProfile 2+ APIs.
 
