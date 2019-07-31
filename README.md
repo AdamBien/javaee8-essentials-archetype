@@ -7,6 +7,8 @@ Fire up your CLI and type:
 ```mvn archetype:generate -Dfilter=com.airhacks:javaee8-essentials-archetype```
 to create a fully fledged Java EE 8 "kB" project. Use the most recent version.
 
+Also checkout: [mvn archetype:generate tuning](http://adambien.blog/roller/abien/entry/maven_archetype_generate_tuning)
+
 In the IDE of your choice use the group ```com.airhacks```, then the artifact id ```javaee8-essentials-archetype``` and also select the most recent version.
 
 Shortcut (copy and paste, replace ```PROJECT_NAME``` and ```GROUP_ID```):
