@@ -1,4 +1,4 @@
-package com.airhacks.ping.boundary;
+package ${package}.ping.boundary;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
